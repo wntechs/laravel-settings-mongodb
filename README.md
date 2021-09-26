@@ -1,4 +1,4 @@
-## Laravel Settings
+## Laravel Settings MongoDB
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/qcod/laravel-settings.svg)](https://packagist.org/packages/qcod/laravel-settings)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
